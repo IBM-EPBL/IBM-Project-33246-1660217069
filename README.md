@@ -2,7 +2,9 @@
 Analytics for Hospitals' Health-Care Data
 
 # Team Members
-JAGAGANESH D
-VELMURUGAN M
-LOKKESWARAN S
-SANJAY M
+<ul>
+  <li>JAGAGANESH D</li>
+  <li>VELMURUGAN M</li>
+  <li>LOKKESWARAN S</li>
+  <li>SANJAY M</li>
+</ul>
