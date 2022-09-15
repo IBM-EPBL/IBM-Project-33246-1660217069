@@ -2,10 +2,10 @@
 Analytics for Hospitals' Health-Care Data
 
 # Team Members
-<h2>Team ID : PNT2022TMID21499</h2>
+<h6>Team ID : PNT2022TMID21499</h6>
 <ul>
-  <li>JAGAGANESH D</li>
-  <li>VELMURUGAN M</li>
-  <li>LOKKESWARAN S</li>
-  <li>SANJAY M</li>
+  <li>JAGAGANESH D - 917719IT036</li>
+  <li>VELMURUGAN M - 917719IT114</li>
+  <li>LOKKESWARAN S - 917719IT083</li>
+  <li>SANJAY M - 917719IT051</li>
 </ul>
