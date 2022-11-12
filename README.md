@@ -6,6 +6,6 @@ Analytics for Hospitals' Health-Care Data
 <h5><ul>
   <li>JAGAGANESH D - 917719IT036</li>
   <li>LOKKESWARAN S - 917719IT051</li>
-  <li>VELMURUGAN M - 917719IT114</li>
   <li>SANJAY M - 917719IT083</li>
+  <li>VELMURUGAN M - 917719IT114</li>
 </ul></h5>
